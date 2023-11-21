@@ -1,0 +1,1 @@
+*/5 * * * * sudo -u www-data php -d memory_limit=512M -f /var/www/html/cron.php
