@@ -1,4 +1,4 @@
-FROM nextcloud:32.0.10-fpm-alpine 
+FROM nextcloud:32.0.11-fpm-alpine 
 
 RUN apk add sudo supercronic
 
